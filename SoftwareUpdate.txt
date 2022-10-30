@@ -1,1 +1,1 @@
-Fix TypeError in check_cfg() (#9245)
+Add https://youtu.be/rCggzXRRSRo to Speed Estimation Docs (#8577)
