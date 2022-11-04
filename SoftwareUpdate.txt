@@ -1,1 +1,1 @@
-Object Counter improvements (#8648)
+Update Colab notebook for YOLOv8.1 (#8660)
