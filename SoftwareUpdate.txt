@@ -1,1 +1,1 @@
-Add type hinting to explorer.py (#7388)
+Fix Multi-GPU resume bug (#7328)
