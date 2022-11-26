@@ -1,1 +1,1 @@
-Update CI.md with CI links (#8786)
+Docs partial mdformat improvements (#7378)
