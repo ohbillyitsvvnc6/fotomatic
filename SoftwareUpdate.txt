@@ -1,1 +1,1 @@
-Disable Tab Limit - Disables the default tab limit (varies giữa devices)
+Add https://youtu.be/96NkhsV-W1U to docs and heatmaps fix (#7944)
