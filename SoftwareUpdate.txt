@@ -1,1 +1,1 @@
-Add https://youtu.be/OpWpBI35A5Y to inference-api Docs (#8717)
+ultralytics 8.1.21 Add YOLOv8-World-v2 models (#8580)
