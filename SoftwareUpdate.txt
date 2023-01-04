@@ -1,1 +1,1 @@
-Capitalize OBB acronym (#7383)
+Pin jax and jaxlib to fix tensorflowjs exports (#6988)
