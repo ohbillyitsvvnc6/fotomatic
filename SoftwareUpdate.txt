@@ -1,1 +1,1 @@
-Disable Tab Limit - Disables the default tab limit (varies giữa devices)
+Bump github/codeql-action from 2 to 3 in /.github/workflows (#7041)
