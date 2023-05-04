@@ -1,1 +1,1 @@
-Fix RTDETR generate anchor grid out of boundary (#7247)
+Fix cmake requirements for ARM64 (#8589)
