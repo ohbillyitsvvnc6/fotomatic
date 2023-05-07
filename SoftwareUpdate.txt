@@ -1,1 +1,1 @@
-Add C++ Classify inference example (#6868)
+Add yolo_bbox2segment docs reference (#7751)
