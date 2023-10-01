@@ -1,1 +1,1 @@
-Rename model_id to model.id (#8447)
+Embed Heatmaps YouTube video in Ultralytics Docs (#7129)
