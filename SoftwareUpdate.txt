@@ -1,1 +1,1 @@
-ultralytics 8.1.19 PNNX aarch64 linux fix (#8480)
+ultralytics 8.1.11 expand OpenVINO INT8 ops for improved mAP (#7516)
