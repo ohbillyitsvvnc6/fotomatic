@@ -1,1 +1,1 @@
-Add docs guide terminal images (#8819)
+Add integrations/gradio Docs page (#7935)
