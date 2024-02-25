@@ -1,1 +1,1 @@
-Update format.yml to pull_request_target (#7460)
+Cleanup Docs languages (#7865)
